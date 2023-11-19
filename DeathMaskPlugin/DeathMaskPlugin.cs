@@ -45,7 +45,6 @@ namespace Shep.DeathMask
             ItemAPI.Add(new CustomItem(myItemDef, displayRules));
 
             GlobalEventManager.onCharacterDeathGlobal += GlobalEventManager_onCharacterDeathGlobal;
-            Log.Info("Plugin chargé");
         }
 
         private void GlobalEventManager_onCharacterDeathGlobal(DamageReport report)
@@ -89,8 +88,6 @@ namespace Shep.DeathMask
                             
                             float mul = Mathf.Min(1, itemCount / 4.0f);
                             float thresh = h.healthComponent.fullHealth * mul;
-
-                            Log.Info($"Threshold: {thresh}");
 
                             // Kills only if below threshold
                             if (h.healthComponent.health <= thresh)

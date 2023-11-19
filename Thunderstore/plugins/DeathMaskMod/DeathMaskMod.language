@@ -1,0 +1,20 @@
+{
+  "strings": {
+    "SHEP_DEATHMASK_NAME": "Mask of Death",
+    "SHEP_DEATHMASK_PICKUP": "Killing an enemy kills nearby enemies or they are marked for death, taking bonus damage.",
+    "SHEP_DEATHMASK_DESC": "Whenever you kill an enemy, <style=cDeath>kills</style> enemies in a <style=clsUtility>12 m</style> <style=cStack>(+4 m per stack)</style> radius if they have less than <style=clsUtility>25 %</style> <style=cStack>(+25 % per stack)</style> HP. Otherwise, enemies are <style=cShrine>marked for death</style> for <style=clsUtility>7</style> <style=cStack>(+7 per stack)</style> seconds.",
+    "SHEP_DEATHMASK_LORE": "<style=cMono>\"Death comes for all and strikes fear in the hearts of mortals.\"</style>"
+  },
+  "FR": {
+    "SHEP_DEATHMASK_NAME": "Masque de Mort",
+    "SHEP_DEATHMASK_PICKUP": "Tuer un ennemi tue les autres ennemies à proximité ou ils sont condamnés à mort et subissent plus de dégâts.",
+    "SHEP_DEATHMASK_DESC": "En cas d'ennemi tué, <style=cDeath>tue</style> les ennemis dans un rayon de <style=cShrine>12 m</style> <style=cStack>(+4 m par cumul)</style> s'ils ont moins de <style=cShrine>25 %</style> <style=cStack>(+25 % par cumul)</style> de leur vie. Sinon les ennemis sont <style=cShrine>condamnés à mort</style> pendant <style=clsUtility>7</style> <style=cStack>(+7 par cumul)</style> secondes.",
+    "SHEP_DEATHMASK_LORE": "<style=cMono>\"La mort viens pour chacun d'entre nous et inspire la crainte dans le coeur des mortels.\"</style>"
+  },
+  "en": {
+    "SHEP_DEATHMASK_NAME": "Mask of Death",
+    "SHEP_DEATHMASK_PICKUP": "Killing an enemy kills nearby enemies or they are marked for death, taking bonus damage.",
+    "SHEP_DEATHMASK_DESC": "Whenever you kill an enemy, <style=cDeath>kills</style> enemies in a <style=clsUtility>12 m</style> <style=cStack>(+4 m per stack)</style> radius if they have less than <style=clsUtility>25 %</style> <style=cStack>(+25 % per stack)</style> HP. Otherwise, enemies are <style=cShrine>marked for death</style> for <style=clsUtility>7</style> <style=cStack>(+7 per stack)</style> seconds.",
+    "SHEP_DEATHMASK_LORE": "<style=cMono>\"Death comes for all and strikes fear in the hearts of mortals.\"</style>"
+  }
+}
