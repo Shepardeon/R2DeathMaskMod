@@ -1,3 +1,3 @@
-# My first mod
+# Death Mask
 
-Description.
+A mod which adds a Death Mask to the game.
